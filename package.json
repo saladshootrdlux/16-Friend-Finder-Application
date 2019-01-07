@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinana3/FriendFinder.git"
+    "url": "git+https://github.com/saladshootrdlux/16-Friend-Finder-Application"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jinana3/FriendFinder/issues"
-  },
-  "homepage": "https://github.com/jinana3/FriendFinder#readme",
+  "homepage": "https://github.com/saladshootrdlux/16-Friend-Finder-Application/blob/master/README.md",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
