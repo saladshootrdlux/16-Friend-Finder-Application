@@ -1,0 +1,25 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Bootcamp Homework 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinana3/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinana3/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jinana3/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
